@@ -13,4 +13,4 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["package_name*"]
+include = ["bag_of_words"]
